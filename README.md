@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Dataenthusiast23
+- 👋 Hi, I am Adeyosola Timothy
 - 👀 I’m interested in data analytics 
 - 🌱 I’m currently learning ...Data analysis essentials
-- 💞️ I’m looking to collaborate on NGO project.
+- 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me through my email: adeyostim@gmail.com
 
 <!---
